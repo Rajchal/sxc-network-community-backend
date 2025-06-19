@@ -21,7 +21,7 @@ This is the backend service for the SXC Network Community platform. It provides 
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/sxc-network-community-backend.git
+git clone https://github.com/Rajchal/sxc-network-community-backend.git
 cd sxc-network-community-backend
 npm install
 ```
