@@ -137,6 +137,6 @@ REST_FRAMEWORK = {
         'rest_framework_simplejwt.authentication.JWTAuthentication',
     ),
 }
-
+STATIC_ROOT = BASE_DIR / "staticfiles"
 # only in development
 CORS_ALLOW_ALL_ORIGINS = True
